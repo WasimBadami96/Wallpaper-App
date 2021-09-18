@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "806650753171",
+    "firebase_url": "https://wallpaper-5aadf-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wallpaper-5aadf",
+    "storage_bucket": "wallpaper-5aadf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806650753171:android:7cab8c8df5457e4934dd66",
+        "android_client_info": {
+          "package_name": "base.image.mobilewallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806650753171-q51jegkdqmhlvo5so97f3qbd1l6v5bkp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "base.image.mobilewallpapers",
+            "certificate_hash": "4cf58cb4a219258dafa37d6f0f96483e096d463f"
+          }
+        },
+        {
+          "client_id": "806650753171-h9t9kv3mavckjsljl82fjk74r9onnjed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlap93PKiKnvo4foafjU5zt5GpWS7zne0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806650753171-h9t9kv3mavckjsljl82fjk74r9onnjed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
